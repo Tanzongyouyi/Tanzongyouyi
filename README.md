@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanzongyouyi
-- 👀 我目前对linux很感兴趣
+- 👀 我目前对Python很感兴趣
 - 📫 2701262643@qq.com
 
 <!---
