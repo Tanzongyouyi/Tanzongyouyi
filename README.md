@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanzongyouyi
 - 👀 我目前对LLM很感兴趣
-- 📫 2701262643@qq.com
+- 📫 hi@tanzong.dpdns.org
 
 <!---
 Tanzongyouyi/Tanzongyouyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
